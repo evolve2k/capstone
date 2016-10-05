@@ -108,6 +108,7 @@ GEM
       sawyer (~> 0.7.0, >= 0.5.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
+    prologue-like-jekyll-theme (0.1.0)
     public_suffix (1.5.3)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
@@ -132,7 +133,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  minima
+  prologue-like-jekyll-theme
 
 BUNDLED WITH
    1.11.2
