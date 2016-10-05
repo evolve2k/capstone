@@ -1,5 +1,5 @@
 ---
 title: We're Live!
-date: '2016-10-05 16:14:34'
+date: '2016-10-05 00:00:00'
 layout: post
 ---
